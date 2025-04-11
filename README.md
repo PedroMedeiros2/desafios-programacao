@@ -9,7 +9,7 @@ Os desafios estão organizados por *contests*, que simulam competições reais d
 
 ### Contests
 
-- [`Contest 0`](./Contest%200) – Primeira série de problemas resolvidos.
+- [`Contest 0`](./contest_0) – Primeira série de problemas resolvidos.
 
 > Novos contests serão adicionados à medida que forem sendo realizados e resolvidos.
 
