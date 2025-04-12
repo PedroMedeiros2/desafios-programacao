@@ -26,4 +26,5 @@ Os problemas estão organizados por letras (A a K) e cada um está em sua própr
 | E     | Números Feios                | ✅     | [`E/`](./E)          |
 | F     | Construir um Retângulo       | ✅     | [`F/`](./F)          |
 | G     | Palavras Longas Demais       | ✅     | [`G/`](./G)          |
-| H–K   | Em breve...                  | ⏳     | (Aguardando solução) |
+| H     | Tarefas                      | ✅     | [`H/`](./H)          |
+| i–K   | Em breve...                  | ⏳     | (Aguardando solução) |
