@@ -22,4 +22,5 @@ Os problemas estão organizados por letras (A a K) e cada um está em sua própr
 | A     | Vida, o Universo e Tudo Mais | ✅     | [`A/`](./A)          |
 | B     | O Problema de 3n + 1         | ✅     | [`B/`](./B)          |
 | C     | Melancia                     | ✅     | [`C/`](./C)          |
+| D     | Gerador de Primos            | ✅     | [`D/`](./D)          |
 | D–K   | Em breve...                  | ⏳     | (Aguardando solução) |
