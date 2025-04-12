@@ -27,4 +27,5 @@ Os problemas estão organizados por letras (A a K) e cada um está em sua própr
 | F     | Construir um Retângulo       | ✅     | [`F/`](./F)          |
 | G     | Palavras Longas Demais       | ✅     | [`G/`](./G)          |
 | H     | Tarefas                      | ✅     | [`H/`](./H)          |
-| i–K   | Em breve...                  | ⏳     | (Aguardando solução) |
+| I     | Três Índices                 | ✅     | [`I/`](./I)          |
+| J–K   | Em breve...                  | ⏳     | (Aguardando solução) |
