@@ -28,4 +28,5 @@ Os problemas estão organizados por letras (A a K) e cada um está em sua própr
 | G     | Palavras Longas Demais       | ✅     | [`G/`](./G)          |
 | H     | Tarefas                      | ✅     | [`H/`](./H)          |
 | I     | Três Índices                 | ✅     | [`I/`](./I)          |
-| J–K   | Em breve...                  | ⏳     | (Aguardando solução) |
+| J     | Projeção Paralela            | ✅     | [`J/`](./J)          |
+| K     | Em breve...                  | ⏳     | (Aguardando solução) |
