@@ -17,8 +17,9 @@ Os problemas estão organizados por letras (A a K) e cada um está em sua própr
 
 ## 🗂️ Lista de Problemas
 
-| Letra | Nome do Problema                   | Status | Caminho              |
-| ----- | ---------------------------------- | ------ | -------------------- |
-| A     | Life, the Universe, and Everything | ✅     | [`A/`](./A)          |
-| B     | The 3n + 1 problem                 | ✅     | [`B/`](./B)          |
-| C–K   | Em breve...                        | ⏳     | (Aguardando solução) |
+| Letra | Nome do Problema             | Status | Caminho              |
+| ----- | ---------------------------- | ------ | -------------------- |
+| A     | Vida, o Universo e Tudo Mais | ✅     | [`A/`](./A)          |
+| B     | O Problema de 3n + 1         | ✅     | [`B/`](./B)          |
+| C     | Melancia                     | ✅     | [`C/`](./C)          |
+| D–K   | Em breve...                  | ⏳     | (Aguardando solução) |
