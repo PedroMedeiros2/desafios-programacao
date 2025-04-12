@@ -24,4 +24,5 @@ Os problemas estão organizados por letras (A a K) e cada um está em sua própr
 | C     | Melancia                     | ✅     | [`C/`](./C)          |
 | D     | Gerador de Primos            | ✅     | [`D/`](./D)          |
 | E     | Números Feios                | ✅     | [`E/`](./E)          |
-| F–K   | Em breve...                  | ⏳     | (Aguardando solução) |
+| F     | Construir um Retângulo       | ✅     | [`F/`](./F)          |
+| G–K   | Em breve...                  | ⏳     | (Aguardando solução) |
