@@ -23,4 +23,5 @@ Os problemas estão organizados por letras (A a K) e cada um está em sua própr
 | B     | O Problema de 3n + 1         | ✅     | [`B/`](./B)          |
 | C     | Melancia                     | ✅     | [`C/`](./C)          |
 | D     | Gerador de Primos            | ✅     | [`D/`](./D)          |
-| D–K   | Em breve...                  | ⏳     | (Aguardando solução) |
+| E     | Números Feios                | ✅     | [`E/`](./E)          |
+| F–K   | Em breve...                  | ⏳     | (Aguardando solução) |
