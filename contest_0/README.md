@@ -17,16 +17,16 @@ Os problemas estão organizados por letras (A a K) e cada um está em sua própr
 
 ## 🗂️ Lista de Problemas
 
-| Letra | Nome do Problema             | Status | Caminho              |
-| ----- | ---------------------------- | ------ | -------------------- |
-| A     | Vida, o Universo e Tudo Mais | ✅     | [`A/`](./A)          |
-| B     | O Problema de 3n + 1         | ✅     | [`B/`](./B)          |
-| C     | Melancia                     | ✅     | [`C/`](./C)          |
-| D     | Gerador de Primos            | ✅     | [`D/`](./D)          |
-| E     | Números Feios                | ✅     | [`E/`](./E)          |
-| F     | Construir um Retângulo       | ✅     | [`F/`](./F)          |
-| G     | Palavras Longas Demais       | ✅     | [`G/`](./G)          |
-| H     | Tarefas                      | ✅     | [`H/`](./H)          |
-| I     | Três Índices                 | ✅     | [`I/`](./I)          |
-| J     | Projeção Paralela            | ✅     | [`J/`](./J)          |
-| K     | Em breve...                  | ⏳     | (Aguardando solução) |
+| Letra | Nome do Problema             | Status | Caminho     |
+| ----- | ---------------------------- | ------ | ----------- |
+| A     | Vida, o Universo e Tudo Mais | ✅     | [`A/`](./A) |
+| B     | O Problema de 3n + 1         | ✅     | [`B/`](./B) |
+| C     | Melancia                     | ✅     | [`C/`](./C) |
+| D     | Gerador de Primos            | ✅     | [`D/`](./D) |
+| E     | Números Feios                | ✅     | [`E/`](./E) |
+| F     | Construir um Retângulo       | ✅     | [`F/`](./F) |
+| G     | Palavras Longas Demais       | ✅     | [`G/`](./G) |
+| H     | Tarefas                      | ✅     | [`H/`](./H) |
+| I     | Três Índices                 | ✅     | [`I/`](./I) |
+| J     | Projeção Paralela            | ✅     | [`J/`](./J) |
+| K     | Ujan e o Telhado de Madeira  | ✅     | [`K/`](./K) |
