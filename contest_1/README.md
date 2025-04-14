@@ -21,4 +21,5 @@ Os problemas estão organizados por letras (A a G) e cada um está em sua própr
 | ----- | ------------------ | ------ | -------------------- |
 | A     | WERTYU             | ✅     | [`A/`](./A)          |
 | B     | Onde está Waldorf? | ✅     | [`B/`](./B)          |
-| C–G   | Em breve...        | ⏳     | (Aguardando solução) |
+| C     | Permutação Comum   | ✅     | [`C/`](./C)          |
+| D–G   | Em breve...        | ⏳     | (Aguardando solução) |
