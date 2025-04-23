@@ -23,4 +23,6 @@ Os problemas estão organizados por letras (A a G) e cada um está em sua própr
 | B     | Onde está Waldorf?                         | ✅     | [`B/`](./B)          |
 | C     | Permutação Comum                           | ✅     | [`C/`](./C)          |
 | D     | Quebra de Criptografia por Texto Conhecido | ✅     | [`D/`](./D)          |
-| E–G   | Em breve...                                | ⏳     | (Aguardando solução) |
+| E     | Juiz Automático Preguiçoso                 | ✅     | [`E/`](./E)          |
+| F     | Reconstruindo Arquivos Quebrados           | ✅     | [`F/`](./F)          |
+| G     | Em breve...                                | ⏳     | (Aguardando solução) |
