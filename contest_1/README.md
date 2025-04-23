@@ -17,9 +17,10 @@ Os problemas estão organizados por letras (A a G) e cada um está em sua própr
 
 ## 🗂️ Lista de Problemas
 
-| Letra | Nome do Problema   | Status | Caminho              |
-| ----- | ------------------ | ------ | -------------------- |
-| A     | WERTYU             | ✅     | [`A/`](./A)          |
-| B     | Onde está Waldorf? | ✅     | [`B/`](./B)          |
-| C     | Permutação Comum   | ✅     | [`C/`](./C)          |
-| D–G   | Em breve...        | ⏳     | (Aguardando solução) |
+| Letra | Nome do Problema                           | Status | Caminho              |
+| ----- | ------------------------------------------ | ------ | -------------------- |
+| A     | WERTYU                                     | ✅     | [`A/`](./A)          |
+| B     | Onde está Waldorf?                         | ✅     | [`B/`](./B)          |
+| C     | Permutação Comum                           | ✅     | [`C/`](./C)          |
+| D     | Quebra de Criptografia por Texto Conhecido | ✅     | [`D/`](./D)          |
+| E–G   | Em breve...                                | ⏳     | (Aguardando solução) |
