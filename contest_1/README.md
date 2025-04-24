@@ -17,12 +17,12 @@ Os problemas estão organizados por letras (A a G) e cada um está em sua própr
 
 ## 🗂️ Lista de Problemas
 
-| Letra | Nome do Problema                           | Status | Caminho              |
-| ----- | ------------------------------------------ | ------ | -------------------- |
-| A     | WERTYU                                     | ✅     | [`A/`](./A)          |
-| B     | Onde está Waldorf?                         | ✅     | [`B/`](./B)          |
-| C     | Permutação Comum                           | ✅     | [`C/`](./C)          |
-| D     | Quebra de Criptografia por Texto Conhecido | ✅     | [`D/`](./D)          |
-| E     | Juiz Automático Preguiçoso                 | ✅     | [`E/`](./E)          |
-| F     | Reconstruindo Arquivos Quebrados           | ✅     | [`F/`](./F)          |
-| G     | Em breve...                                | ⏳     | (Aguardando solução) |
+| Letra | Nome do Problema                           | Status | Caminho     |
+| ----- | ------------------------------------------ | ------ | ----------- |
+| A     | WERTYU                                     | ✅     | [`A/`](./A) |
+| B     | Onde está Waldorf?                         | ✅     | [`B/`](./B) |
+| C     | Permutação Comum                           | ✅     | [`C/`](./C) |
+| D     | Quebra de Criptografia por Texto Conhecido | ✅     | [`D/`](./D) |
+| E     | Juiz Automático Preguiçoso                 | ✅     | [`E/`](./E) |
+| F     | Reconstruindo Arquivos Quebrados           | ✅     | [`F/`](./F) |
+| G     | Formatador de Texto estilo Unix `fmt`      | ✅     | [`G/`](./G) |
