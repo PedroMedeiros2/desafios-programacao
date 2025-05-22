@@ -9,7 +9,8 @@ Os desafios estão organizados por _contests_, que simulam competições reais d
 ### Contests
 
 - [`Contest 0`](./contest_0) – Primeira série de problemas resolvidos.
-- [`Contest 0`](./contest_1) – Segunda série de problemas resolvidos. (Em Andamento)
+- [`Contest 0`](./contest_1) – Segunda série de problemas resolvidos.
+- [`Contest 2`](./contest_2) – Terceira série de problemas resolvidos.
 
 > Novos contests serão adicionados à medida que forem sendo realizados e resolvidos.
 
@@ -17,7 +18,6 @@ Os desafios estão organizados por _contests_, que simulam competições reais d
 
 - C
 - C++
-- Outros (dependendo do problema e da necessidade)
 
 ## 🎯 Objetivos
 
